@@ -1,7 +1,5 @@
 # face-mask-detection
 
-# Face Mask Detection and Recognition
-
 ## Introduction
 This project focuses on detecting whether a person is wearing a mask and recognizing the person even when they are masked. The system utilizes deep learning techniques and OpenCV for real-time face detection and classification.
 
