@@ -16,6 +16,7 @@ This project focuses on detecting whether a person is wearing a mask and recogni
 - Matplotlib (for visualization)
 - Haar Cascade Classifier
 - SSD (Single Shot MultiBox Detector)
+- CNN MODEL
 
 ## Installation
 1. Install required dependencies:
@@ -25,8 +26,7 @@ This project focuses on detecting whether a person is wearing a mask and recogni
 2. Ensure you have the required pre-trained models:
    - `haarcascade_frontalface_default.xml`
    - `res10_300x300_ssd_iter_140000.caffemodel`
-   - `shape_predictor_68_face_landmarks.dat` (for better face alignment)
-
+   
 ## Dataset
 The dataset consists of images with and without masks stored in the following directories:
 - `images/face_withmask/`
